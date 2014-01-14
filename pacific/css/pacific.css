@@ -1,0 +1,37 @@
+body {
+	background-color: #FFFFF;
+	color:#666666;
+	font-family: Verdana, Arial, 'Sans Serif';
+}
+h1 {
+	background-color: #000033
+	color: #FFFFFF;
+	line-height: 200%;
+	font-family:Georgia, 'Sans Serif';
+}
+.nav {
+	font-weight: bold;
+	background-color: #90C7E3;
+	display: inline-block;
+}
+h2 {
+	color:#3399CC;
+	font-family:Georgia, 'Sans Serif';
+}
+dt {
+	color:#000033;
+}
+.title {
+	color:#000033;
+	font-size:1.2em;
+}
+.footer {
+	font-size: .70em;
+	font-style: italic;
+	text-align:center;
+}
+#swap {
+	height: 40px;
+	width: 100px;
+	font-weight: bold;
+}
